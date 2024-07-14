@@ -3,5 +3,5 @@ This dashboard presents air pollution trends in 26 different cities across India
 
 <br>
 <br>
-<img height=500 src="![image](https://github.com/user-attachments/assets/0efa2a6a-896c-4105-a486-3e491ff55e9d)" align=centre>
+<img  src="![image](https://github.com/user-attachments/assets/0efa2a6a-896c-4105-a486-3e491ff55e9d)" height=500 align=centre>
 
